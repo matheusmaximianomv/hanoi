@@ -1,6 +1,6 @@
 <h1 align="center">Torre de Hanoi - Algoritmos de Busca</h1>
 <p align="center">
-  <img src="./.github/typescript.png" height="150" width="175" alt="Icon" />
+  <img src="./.github/typescript.png" height="150" width="150" alt="Icon" />
   <img src="./.github/nodejs.svg" height="150" width="175" alt="Icon" />
 </p>
 <p align="center">
